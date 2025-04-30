@@ -2,4 +2,4 @@
 
 ![369](/images/joi-369.png)
 
-Interactive (Aeon AGI), dynamixel, arm32, arm64, and dot Forth.
+Interactive (Aeon AGI), dynamixel-code, joi (arm32), animals-dot, with transmutive effect.
